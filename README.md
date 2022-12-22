@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Stats Preview Card Component
+  💻<br>QR Code Component Main
 </h1>
 
 ![Resultado final do projeto](design/desktop-design.jpg)
